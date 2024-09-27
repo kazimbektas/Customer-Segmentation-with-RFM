@@ -1,4 +1,4 @@
-# FLO - RFM Customer Segmentation
+# RFM Customer Segmentation
 
 ## Project Overview
 
