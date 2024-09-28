@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://www.cloudkettle.com/wp-content/uploads/2019/08/Build-RFM-model.png" alt="MasterHead"/>
+</p>
+
 # RFM Customer Segmentation
 
 ## Project Overview
